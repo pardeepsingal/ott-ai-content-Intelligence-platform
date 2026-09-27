@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+python-dotenv
+langchain
+langchain-openai
+langchain-text-splitters
+json
+faiss-cpu
+uvicorn
